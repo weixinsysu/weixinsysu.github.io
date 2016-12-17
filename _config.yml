@@ -21,9 +21,10 @@ instagram: satin_in_my_world
 linkedin:
 
 # avatar and Favicon
-avatar: http://f.hiphotos.baidu.com/image/pic/item/203fb80e7bec54e7e37d8d10b0389b504fc26a2f.jpg 
+avatar: http://f.hiphotos.baidu.com/image/pic/item/203fb80e7bec54e7e37d8d10b0389b504fc26a2f.jpg
   #http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+favicon: http://f.hiphotos.baidu.com/image/pic/item/203fb80e7bec54e7e37d8d10b0389b504fc26a2f.jpg
+  #http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # disqus config
 disqus:
