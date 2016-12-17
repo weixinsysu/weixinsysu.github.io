@@ -21,19 +21,19 @@ instagram: satin_in_my_world
 linkedin:
 
 # avatar and Favicon
-avatar: http://f.hiphotos.baidu.com/image/pic/item/203fb80e7bec54e7e37d8d10b0389b504fc26a2f.jpg
+avatar: http://oib17ozgq.bkt.clouddn.com/IMG_0573.JPG
   #http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
-favicon: http://f.hiphotos.baidu.com/image/pic/item/203fb80e7bec54e7e37d8d10b0389b504fc26a2f.jpg
+favicon: http://oib17ozgq.bkt.clouddn.com/IMG_0573.ico
   #http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # disqus config
 disqus:
-  shortname: suyan-zh
+  shortname:
 
 # google analytics config
 ga:
-  id: UA-54767140-1
-  url: yansu.org
+  id:
+  url: weixinsysu.github.io
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
