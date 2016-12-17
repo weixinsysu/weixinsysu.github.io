@@ -1,12 +1,12 @@
 # Site settings
-title: weixinsysu的博客
-email: suyan0830@gmail.com
+title: Satin In My world的博客
+email: silkkboldboy@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  闫肃的博客
+  Satin In My world的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://yansu.org # the base hostname & protocol for your site
-rss_url: /pages/feed.xml
-author: Su Yan
+url: http://weixinsysu.github.io # the base hostname & protocol for your site
+rss_url: /pages/feed.xml  #不确定是否要修改
+author: Satin In My world
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
@@ -14,14 +14,15 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: masonsuyan
-weibo: suyan0830
-github: suyan
-instagram: suyan0830
-linkedin: suyan0830
+twitter: silksatin-bound
+weibo:
+github:
+instagram: satin_in_my_world
+linkedin:
 
 # avatar and Favicon
-avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
+avatar: http://f.hiphotos.baidu.com/image/pic/item/203fb80e7bec54e7e37d8d10b0389b504fc26a2f.jpg 
+  #http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
 favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # disqus config
@@ -47,4 +48,3 @@ gems:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
-
